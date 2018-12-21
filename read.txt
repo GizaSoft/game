@@ -1,0 +1,8 @@
+localhost/game/index.php     // game window
+			
+
+
+localhost/game/words.php    //  so'zlarni qo'shish
+     login :  user
+     parol:   1
+
